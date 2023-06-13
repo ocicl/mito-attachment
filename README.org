@@ -1,0 +1,10 @@
+* mito-attachment
+
+Mito mixin class for file management outside of RDBMS
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fukamachi/mito-attachment.git   |
+| commit  | 5022a07  |
+| systems | mito-attachment |
+|---------+-------------------------------------------|
+
